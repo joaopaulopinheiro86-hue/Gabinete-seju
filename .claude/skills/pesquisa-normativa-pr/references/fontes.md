@@ -22,7 +22,7 @@
 - Dicas: procure as seções de "Pareceres", "Orientações", "Minutas Padronizadas" e "Legislação"; cite número do parecer/enunciado e data.
 
 ## 3. SEAP-PR — Secretaria de Estado da Administração e da Previdência
-- Portal: https://www.seap.pr.gov.br
+- Portal: https://www.administracao.pr.gov.br (antigo www.seap.pr.gov.br, que redireciona)
 - O que buscar: normas e manuais de recursos humanos (ingresso, férias, licenças, progressões, cedências), patrimônio, logística e compras, previdência (articulação com a Paranaprevidência).
 - Dicas: resoluções e instruções normativas da SEAP costumam detalhar procedimentos; confira a data e se foram substituídas.
 
@@ -43,7 +43,7 @@
 - Citação: "Acórdão nº XXXX/AAAA – TCU – Plenário, Rel. Min. Fulano".
 
 ## 6. Legislação federal
-- Planalto: https://www.planalto.gov.br/legislacao (texto compilado, com marcação de alterações e revogações)
+- Planalto: https://www.planalto.gov.br/legislacao (texto compilado, com marcação de alterações e revogações). Observação: o servidor recusa requisições sem user-agent de navegador; ao usar curl, envie `-A "Mozilla/5.0"`.
 - LexML: https://www.lexml.gov.br (busca unificada de legislação e jurisprudência)
 - Normas gerais mais recorrentes:
   - Constituição Federal de 1988;
@@ -55,5 +55,5 @@
   - Lei nº 9.784/1999 — Processo administrativo federal (aplicação subsidiária, conforme entendimento do STJ, na ausência de lei local).
 
 ## Complementares
-- Diário Oficial do Estado (DIOE): conferir publicação e data de atos.
+- Diário Oficial do Estado (DIOE): https://www.documentos.dioe.pr.gov.br — conferir publicação e data de atos. Em nov/2026 o site apresentava erro de certificado; se não abrir, informe e peça conferência manual.
 - SEJU-PR: https://www.justica.pr.gov.br — atos internos, resoluções e estrutura da Secretaria.

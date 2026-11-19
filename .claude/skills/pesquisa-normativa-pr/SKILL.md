@@ -20,7 +20,7 @@ Percorra as fontes abaixo na ordem indicada. Pule uma fonte só quando ela clara
 2. **PGE-PR** — Procuradoria-Geral do Estado: https://www.pge.pr.gov.br
    - Pareceres, orientações jurídicas, enunciados, resoluções e minutas-padrão (editais, contratos, convênios).
    - Entendimento da PGE vincula/orienta a Administração estadual: destaque quando houver.
-3. **SEAP-PR** — Secretaria de Estado da Administração e da Previdência: https://www.seap.pr.gov.br
+3. **SEAP-PR** — Secretaria de Estado da Administração e da Previdência: https://www.administracao.pr.gov.br (antigo www.seap.pr.gov.br, que redireciona)
    - Normas e orientações sobre gestão de pessoas (servidores, cargos, RH), patrimônio, compras/logística e previdência estadual.
 4. **TCE-PR** — Tribunal de Contas do Estado do Paraná: https://www1.tce.pr.gov.br
    - Acórdãos, prejulgados, consultas com força normativa, instruções normativas e resoluções.
