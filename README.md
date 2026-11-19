@@ -14,3 +14,5 @@ Ferramentas de apoio ao trabalho no Gabinete da Secretaria de Estado da Justiça
   internacionais (EUA, Itália, ONU/OCDE), com lacunas e roteiro para a futura Secretaria Anticorrupção.
 - `diagnosticos/2026-11-espelhamento-mpf-secretaria-anticorrupcao.md` — práticas do MPF (5ª CCR, GAECO, SPPEA,
   leniência, ANPC) espelhadas para a Secretaria Anticorrupção, com limites legais e estrutura proposta.
+- `diagnosticos/2026-11-tce-pr-exigencias-estrutura-e-governanca.md` — o que o TCE-PR exige de uma Secretaria:
+  áreas obrigatórias na prestação de contas, código de ética, atribuições de cargos, governança e controle de acessos.
