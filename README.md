@@ -12,3 +12,5 @@ Ferramentas de apoio ao trabalho no Gabinete da Secretaria de Estado da Justiça
 
 - `diagnosticos/2026-11-cge-pr-vs-padroes-internacionais.md` — CGE-PR comparada a padrões anticorrupção
   internacionais (EUA, Itália, ONU/OCDE), com lacunas e roteiro para a futura Secretaria Anticorrupção.
+- `diagnosticos/2026-11-espelhamento-mpf-secretaria-anticorrupcao.md` — práticas do MPF (5ª CCR, GAECO, SPPEA,
+  leniência, ANPC) espelhadas para a Secretaria Anticorrupção, com limites legais e estrutura proposta.

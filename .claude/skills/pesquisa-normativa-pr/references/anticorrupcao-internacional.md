@@ -34,3 +34,10 @@ Use como **boa prática comparada**. Só a UNCAC (Decreto 5.687/2006) e a Conven
 - Lei 13.608/2018, arts. 4-A a 4-C: denunciante (proteção e recompensa de até 5%).
 - Lei 14.133/2021, art. 25, § 4º: programa de integridade em contratações de grande vulto.
 - CGU: https://www.gov.br/cgu
+
+## MPF: paradigma nacional de atuação anticorrupção
+- 5ª CCR (Combate à Corrupção): https://www.mpf.mp.br/atuacao/combate-a-corrupcao
+  - Enunciados (1–58) e Orientações (1–17), especialmente: Or. 3 (seletividade, < R$ 20 mil), Or. 7 (rito de leniência; item 9 veda destinar valores a órgãos da administração), Or. 11 (publicidade), Or. 16 (prescrição intercorrente), Or. 17 (ANPC: critérios, direitos e deveres).
+  - Grupos de apoio: GAL (leniência), ANPC/TAC, ANPP/CP; painel público de acordos de leniência homologados; relatórios anuais.
+- Res. CSMPF 243/2025 (GAECO Nacional): procurador natural, pedido formal, hipóteses taxativas, decisão fundamentada, relatório.
+- Ao espelhar no Executivo, separe o que é replicável do que é exclusivo do MP ou do Judiciário (PIC, ANPP, colaboração premiada, cautelares, dados bancários/fiscais/UIF — Tema 990/STF). Ver `diagnosticos/2026-11-espelhamento-mpf-secretaria-anticorrupcao.md`.
